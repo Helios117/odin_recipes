@@ -1,0 +1,31 @@
+* {
+    background-color: antiquewhite;
+}
+
+.heading {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.subheading {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.links {
+    font-size: larger;
+    font-family: cursive;
+}
+
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image{
+    height: auto;
+    width: 50%;
+    margin-left: 25%;
+    border: 5px solid transparent;
+    border-radius: 10%;
+    border-color: black;
+}
